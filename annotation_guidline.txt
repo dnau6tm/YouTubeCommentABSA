@@ -1,0 +1,22 @@
+Annotation Guidelines 
+
+Based on the characteristics of students’ feedback, we build annotation guidelines for sentiment and topic tasks. 
+1) Sentiment-Based Task: Each sentence is labeled one of three sentiment polarities including positive, negative, and neutral. 
+Annotation guidelines are briefly described as follows. 
+• Positive polarity: Sentences in which use to express their satisfaction and compliments about elements of player, managers, etc. 
+For instance, the sentence "Ronaldo đá hay quá =) :)") is annotated with the positive polarity. 
+• Negative polarity: Sentences express dissatisfaction, requests, and complaints related to players, style, manager, and so on. 
+An example sentence which is "Mac Gui đá quá tệ =( :(" (means: "The course content is too much for students.") is a sentence expressed
+ the negative emotion. 
+• Neutral polarity: Sentences are incomplete or unclear in meaning or do not contain opinions, for instance, the sentence "=) ;)" is
+ a neutral sentence which is actually a noun phrase and does not contain any words expressing emotions. Or, sentences are complete but
+  do not express feelings. For example, the sentence "he”.
+
+
+Annotation Process 
+
+To ensure the quality of corpus, we try to build the basic guidelines as completely as possible before starting the annotation process.
+In addition, we also update the annotation guidelines during the annotation process, which is necessary because there are many complicated
+cases. In this annotation process, we ask the annotators to discuss difficult cases if they find and update the guidelines. 
+After updating the guidelines, we re-train the annotators with the revised guidelines. Eventually, we evaluate the corpus based on 
+inter-annotator agreements and classification experiments.
