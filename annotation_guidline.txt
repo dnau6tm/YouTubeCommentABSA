@@ -10,7 +10,7 @@ An example sentence which is "Mac Gui đá quá tệ =( :(" (means: "The course 
  the negative emotion. 
 • Neutral polarity: Sentences are incomplete or unclear in meaning or do not contain opinions, for instance, the sentence "=) ;)" is
  a neutral sentence which is actually a noun phrase and does not contain any words expressing emotions. Or, sentences are complete but
-  do not express feelings. For example, the sentence "he”.
+  do not express feelings. For example, the sentence "he”. Or, sentences are talk about both positive and negative of one aspect. For example, the sentence "Mc năm nay công thì vẫn mạnh mà có điều hàng thủ 1 số thời điểm có vẻ tấu hài rồi"
 
 
 Annotation Process 
