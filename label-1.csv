@@ -424,7 +424,7 @@ Positive#club;0
 Negative#other;1
 Negative#other;0
 Neutral#other;0
-Positive#other,Positive#club,0
+Positive#other,Positive#club;0
 Neutral#other;0
 Negative#club;0
 Negative#commentator;0
@@ -2448,7 +2448,7 @@ Negative#other;1
 Negative#other;0
 Neutral#other;0
 Negative#club;0
-Porgba#club;0
+Positive#club;0
 Negative#other;0
 Positive#other,Positive#player;0
 Positive#club;0
