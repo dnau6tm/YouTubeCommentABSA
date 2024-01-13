@@ -1,22 +1,15 @@
-Annotation Guidelines 
+Định nghĩa các aspect:
+-	player: Các bình luận được gắn aspect “player” khi nó có nói đến một vài cầu thủ cụ thể. Ví dụ: “Ronaldo đá rất hay” là một câu có aspect là player. Còn các câu như: “Hàng thủ của PSG lủng quá”, “MU đá như cứt” là những câu chung chung không chỉ đến bất cứ cầu thủ cụ thể nào.
+-	club: là các bình luận có nói về đội bóng như “MU là một đội bóng lâu đời” hay các câu nói chung chung về “hàng thủ”, “hàng công” hay lối đá của đội.
+-	commentator: là các bình luận có nói đến việc bình luận của các bình luận viêc trong trận đấu. Ví dụ như: “blv nhạt v”
+-	other: là các bình luận không đề cập đến bất kỳ aspect nào ở trên hoặc bình luận chung chung. Ví dụ như: “Trận cầu đỉnh cao”, “hay quá”
 
-Based on the characteristics of students’ feedback, we build annotation guidelines for sentiment and topic tasks. 
-1) Sentiment-Based Task: Each sentence is labeled one of three sentiment polarities including positive, negative, and neutral. 
-Annotation guidelines are briefly described as follows. 
-• Positive polarity: Sentences in which use to express their satisfaction and compliments about elements of player, managers, etc. 
-For instance, the sentence "Ronaldo đá hay quá =) :)") is annotated with the positive polarity. 
-• Negative polarity: Sentences express dissatisfaction, requests, and complaints related to players, style, manager, and so on. 
-An example sentence which is "Mac Gui đá quá tệ =( :(" (means: "The course content is too much for students.") is a sentence expressed
- the negative emotion. 
-• Neutral polarity: Sentences are incomplete or unclear in meaning or do not contain opinions, for instance, the sentence "=) ;)" is
- a neutral sentence which is actually a noun phrase and does not contain any words expressing emotions. Or, sentences are complete but
-  do not express feelings. For example, the sentence "he”. Or, sentences are talk about both positive and negative of one aspect. For example, the sentence "Mc năm nay công thì vẫn mạnh mà có điều hàng thủ 1 số thời điểm có vẻ tấu hài rồi"
-
-
-Annotation Process 
-
-To ensure the quality of corpus, we try to build the basic guidelines as completely as possible before starting the annotation process.
-In addition, we also update the annotation guidelines during the annotation process, which is necessary because there are many complicated
-cases. In this annotation process, we ask the annotators to discuss difficult cases if they find and update the guidelines. 
-After updating the guidelines, we re-train the annotators with the revised guidelines. Eventually, we evaluate the corpus based on 
-inter-annotator agreements and classification experiments.
+Định nghĩa các sentiment:
+Dựa trên đặc điểm của bình luận, chúng tôi xây dựng hướng dẫn chú thích cho các nhiệm vụ cảm tính và chủ đề.
+1) Nhiệm vụ dựa trên tình cảm: Mỗi câu được gắn nhãn một trong ba cực tình cảm bao gồm tích cực, tiêu cực và trung tính.
+Hướng dẫn chú thích được mô tả ngắn gọn như sau.
+• Positive: Các câu dùng để bày tỏ sự hài lòng và khen ngợi về các yếu tố của cầu thủ, người quản lý, đội bóng, v.v.
+Chẳng hạn câu "Ronaldo đá hay quá” được gán nhãn Positive.
+• Negative: Các câu thể hiện sự không hài lòng, yêu cầu, khiếu nại liên quan đến cầu thủ, đội bóng, bình luận viên, v.v.
+Câu ví dụ “Mac Gui đá quá tệ =(((( là câu thể hiện cảm xúc tiêu cực.
+• Neutral: Câu chưa đầy đủ, không rõ ràng về ý nghĩa hoặc không chứa đựng ý kiến, ví dụ câu “=) ;)”, “9:31 Điểm gì cơ?”, “PSG” là một câu trung tính thực chất là một cụm danh từ và không chứa bất kỳ từ nào thể hiện cảm xúc. Hoặc, câu đã đầy đủ nhưng không bộc lộ cảm xúc. Ví dụ như câu “Ngày mà anh trai thắng đội bóng của em trai mình. Ngày mà PSG thắng Milan từ tiền bạc đến trên sân cỏ. Ngày donnaruma gặp lại đội bóng cũ. Định mệnh phết”

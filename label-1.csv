@@ -230,7 +230,7 @@ Positive#other;0
 Negative#player;0
 Negative#other;0
 Positive#player;0
-Neutral#other;1
+Negative#commentator;1
 Positive#club,Negative#club;0
 Positive#player;1
 Positive#player;0
@@ -410,11 +410,11 @@ Neutral#other;1
 Neutral#other;1
 Negative#other;1
 Negative#other;0
-Negative#club;0
+Neutral#other;0
 Neutral#other;1
 Positive#club;0
 Neutral#other;1
-Negative#commentator;0
+Negative#commentator,Positive#other;0
 Neutral#club;0
 Neutral#other;1
 Neutral#other;1
@@ -543,7 +543,7 @@ Positive#club;0
 Neutral#other;0
 Negative#commentator;0
 Positive#other,Positive#club;0
-Negative#club,Positive#club;0
+Neutral#other;0
 Negative#club;0
 Positive#club;0
 Positive#club;1
@@ -766,7 +766,7 @@ Neutral#club;1
 Neutral#other;0
 Positive#club;0
 Neutral#player;0
-Negative#player;0
+Negative#other;0
 Negative#club;0
 Positive#other;0
 Positive#club;0
@@ -787,7 +787,7 @@ Neutral#other;0
 Neutral#other;1
 Positive#other;1
 Neutral#player;0
-Neutral#commentator;0
+Negative#commentator;0
 Neutral#club;1
 Negative#player;0
 Negative#player;0
@@ -868,7 +868,7 @@ Positive#club,Negative#commentator;0
 Positive#other,Positive#club,Negative#club;0
 Neutral#player;0
 Negative#other;0
-Positive#player;0
+Negative#player;0
 Positive#other;0
 Neutral#club;0
 Positive#club;0
@@ -1060,7 +1060,7 @@ Positive#player;0
 Neutral#club;0
 Positive#club;0
 Negative#player,Negative#club;0
-Neutral#club;0
+Positive#club;0
 Neutral#club;0
 Negative#club;0
 Negative#club;0
@@ -1203,7 +1203,7 @@ Neutral#club;0
 Neutral#club;0
 Neutral#club;0
 Positive#club;0
-Neutral#club;0
+Positive#club;0
 Negative#player;0
 Neutral#club;0
 Positive#club;0
@@ -1220,7 +1220,7 @@ Negative#player;0
 Positive#club;0
 Neutral#other;0
 Neutral#club;0
-Positive#player;0
+Positive#club;0
 Negative#player;0
 Positive#player;0
 Neutral#other;0
@@ -1449,7 +1449,7 @@ Negative#club;0
 Neutral#club;0
 Positive#club,Negative#player;0
 Neutral#player;0
-Neutral#other;0
+Negative#other;0
 Positive#club;0
 Neutral#club;0
 Neutral#other;0
@@ -1464,7 +1464,7 @@ Positive#player,Positive#club;0
 Negative#player;0
 Positive#player;0
 Neutral#club,Positive#player;0
-Neutral#other;0
+Negative#other;0
 Positive#player;0
 Neutral#club;0
 Positive#club;0
@@ -1549,7 +1549,7 @@ Positive#player;0
 Negative#club;0
 Negative#club;0
 Negative#club;0
-Positive#other,Positive#player;0
+Positive#player;0
 Positive#club;0
 Negative#player;0
 Positive#player;0
@@ -1765,7 +1765,7 @@ Negative#club,Negative#player;0
 Negative#club,Positive#club;0
 Positive#player,Positive#club;0
 Positive#club;0
-Neutral#other;0
+Negative#club;0
 Positive#club;0
 Negative#club,Positive#club;0
 Negative#player,Positive#player;0
@@ -1783,7 +1783,7 @@ Negative#player;0
 Positive#player;0
 Neutral#other;0
 Negative#player;0
-Neutral#player;0
+Negative#club;0
 Positive#player;0
 Positive#player,Negative#club;0
 Neutral#other;0
@@ -1792,7 +1792,7 @@ Neutral#other;0
 Positive#club;0
 Negative#club;0
 Neutral#other;0
-Positive#player;0
+Positive#other;0
 Neutral#other;0
 Negative#club;0
 Neutral#club;0
@@ -2120,7 +2120,7 @@ Positive#club;0
 Negative#player;0
 Positive#other;0
 Negative#club;1
-Positive#club;0
+Negative#player;0
 Neutral#club;0
 Neutral#club;0
 Negative#player;0
@@ -2326,7 +2326,7 @@ Positive#player,Positive#club;0
 Positive#club;0
 Neutral#club;0
 Negative#club;0
-Neutral#player;1
+Neutral#club;0
 Negative#club;0
 Negative#other;0
 Negative#other;0
@@ -2403,7 +2403,7 @@ Neutral#other;0
 Negative#player;0
 Negative#club;0
 Negative#player;0
-Positive#club,Neutral#club;0
+Positive#club;0
 Positive#club;0
 Neutral#club;0
 Positive#club,Neutral#other;0
@@ -2682,7 +2682,7 @@ Positive#player;0
 Neutral#player,Neutral#club;0
 Positive#player;0
 Negative#other;0
-Negative#club;0
+Negative#other;0
 Positive#club;0
 Positive#player;0
 Negative#player;0
