@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.O11.KHCL - MÁY HỌC</b></h1>
 
 
 ## GIỚI THIỆU MÔN HỌC
@@ -22,9 +22,9 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Email                   |
 | ------ |:-------------:| ----------------------:|-------------------------:
-| 1      | 21522518      | Nguyễn Ngọc Lan Phương |21522518@gm.uit.edu.vn   |
-| 2      | 21522468      | Nguyễn Quốc Huy        |21522468@gm.uit.edu.vn   |
-| 3      | 21522490      | Hoàng Anh Tú           |21522490@gm.uit.edu.vn   |
+| 1      | 21522518      | Trần Minh Quang        |21522518@gm.uit.edu.vn   |
+| 2      | 21522468      | Bùi Đăng Phúc          |21522468@gm.uit.edu.vn   |
+| 3      | 21522490      | Lê Hồng Quân           |21522490@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
